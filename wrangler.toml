@@ -1,6 +1,7 @@
 name = "edgetunnel"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
+workers_dev = true
 keep_vars = true
 
 [[kv_namespaces]]
